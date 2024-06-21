@@ -76,6 +76,6 @@ If you have any questions or need further information, please feel free to reach
 
 - **Name**: Jayaprakash
 - **Email**: jayaprakash.profession@gmail.com
-- **LinkedIn**: [\[Your LinkedIn Profile\]](https://www.linkedin.com/in/jayaprakash-j-a8b183246/)
+- **LinkedIn**: [jayaprakash-j-a8b183246](https://www.linkedin.com/in/jayaprakash-j-a8b183246/)
 
 Thank you for reviewing my submission!
