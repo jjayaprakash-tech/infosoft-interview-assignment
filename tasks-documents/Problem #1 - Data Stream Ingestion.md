@@ -88,7 +88,7 @@ The `DataStream` class efficiently manages the printing of unique strings based 
 
 ##### Source Code
 
-The source code for the `Calendar` and `Node` classes can be found in [calendar.py](https://github.com/jjayaprakash-tech/infosoft-interview-assignment/blob/main/source-code/data_stream.py).
+The source code for the `DataStream` classes can be found in [data_stream.py](https://github.com/jjayaprakash-tech/infosoft-interview-assignment/blob/main/source-code/data_stream.py).
 
 #### Assignment Document
 
