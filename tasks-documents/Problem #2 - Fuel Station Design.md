@@ -118,7 +118,7 @@ The `FuelStation` class provides a straightforward implementation to manage and 
 
 #### Source Code
 
-The source code for the `Calendar` and `Node` classes can be found in [calendar.py](https://github.com/jjayaprakash-tech/infosoft-interview-assignment/blob/main/source-code/fuel_station.py).
+The source code for the `FuelStation` classes can be found in [calendar.py](https://github.com/jjayaprakash-tech/infosoft-interview-assignment/blob/main/source-code/fuel_station.py).
 
 #### Assignment Document
 
